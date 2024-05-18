@@ -1,0 +1,25 @@
+.SearchedItem {
+    position: relative;
+    margin-left: 5vh;
+    margin-bottom: 2vh;
+
+}
+
+.SearchedItem a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height:100%;
+    width: 100%;
+}
+
+.search-result-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e1e1e1; /* Title color */
+  }
+  
+  .search-result-content {
+    font-size: 14px;
+    color: #d7cfcf; /* Content color */
+  }
