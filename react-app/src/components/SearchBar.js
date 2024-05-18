@@ -10,7 +10,7 @@ import './css/font.css';
 const StyledPaper = styled(Paper)(({ theme }) => ({
   display: 'flex',
   alignItems: 'center',
-  width: 1000,
+  width: 350,
   padding: '2px 4px',
   borderRadius: theme.shape.borderRadius * 2,
   boxShadow: theme.shadows[3],

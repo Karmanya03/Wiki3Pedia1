@@ -39,6 +39,7 @@ const Create = () => {
 
 
     return (
+      <div className="container">
     <div className="Create">
         <Header />
         <Box mt={10}>
@@ -73,6 +74,7 @@ const Create = () => {
         </Grid>
         </Box>
     </div>
+   </div>
   )
 };
 
